@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **DSA, Next.js**
 
-- 👨‍💻 All of my projects are available at [http://khursheed-portfolio.vercel.app](http://khursheed-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **React JS, Next JS and DSA**
 
-- 📫 How to reach me **khursheed6577@gmail.com**
+- 📫 How to reach me **ahmadaslam2001m@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
